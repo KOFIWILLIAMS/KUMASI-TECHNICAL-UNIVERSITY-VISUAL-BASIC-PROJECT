@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\even no\even no\bin\Debug\even no.exe
+D:\SCHOOL\VISUAL BASIC\even no\even no\bin\Debug\even no.pdb
+D:\SCHOOL\VISUAL BASIC\even no\even no\bin\Debug\even no.xml
+D:\SCHOOL\VISUAL BASIC\even no\even no\obj\x86\Debug\even_no.Form1.resources
+D:\SCHOOL\VISUAL BASIC\even no\even no\obj\x86\Debug\even_no.Resources.resources
+D:\SCHOOL\VISUAL BASIC\even no\even no\obj\x86\Debug\even no.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\even no\even no\obj\x86\Debug\even no.exe
+D:\SCHOOL\VISUAL BASIC\even no\even no\obj\x86\Debug\even no.xml
+D:\SCHOOL\VISUAL BASIC\even no\even no\obj\x86\Debug\even no.pdb

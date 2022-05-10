@@ -1,0 +1,17 @@
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\bin\Debug\strength of a woman.exe.config
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\bin\Debug\strength of a woman.exe
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\bin\Debug\strength of a woman.pdb
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\bin\Debug\strength of a woman.xml
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength of a woman.vbprojResolveAssemblyReference.cache
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength_of_a_woman.Resources.resources
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength of a woman.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength of a woman.exe
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength of a woman.xml
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength of a woman.pdb
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\bin\Debug\MySql.Data.dll
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength_of_a_woman.Record.resources
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength_of_a_woman.Add.resources
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength_of_a_woman.home.resources
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength_of_a_woman.paymentForm.resources
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength_of_a_woman.ATTENDANCE.resources
+D:\SCHOOL\VISUAL BASIC\strength of a woman\strength of a woman\obj\Debug\strength_of_a_woman.ASSESSMENT.resources

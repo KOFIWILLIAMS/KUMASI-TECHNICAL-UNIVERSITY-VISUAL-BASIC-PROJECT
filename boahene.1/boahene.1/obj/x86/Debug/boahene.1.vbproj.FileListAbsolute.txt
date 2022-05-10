@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\bin\Debug\boahene.1.exe
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\bin\Debug\boahene.1.pdb
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\bin\Debug\boahene.1.xml
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\obj\x86\Debug\boahene._1.Form1.resources
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\obj\x86\Debug\boahene._1.Resources.resources
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\obj\x86\Debug\boahene.1.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\obj\x86\Debug\boahene.1.exe
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\obj\x86\Debug\boahene.1.xml
+D:\SCHOOL\VISUAL BASIC\boahene.1\boahene.1\obj\x86\Debug\boahene.1.pdb

@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\bin\Debug\YouTUbe.exe
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\bin\Debug\YouTUbe.pdb
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\bin\Debug\YouTUbe.xml
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\obj\x86\Debug\YouTUbe.Form1.resources
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\obj\x86\Debug\YouTUbe.Resources.resources
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\obj\x86\Debug\YouTUbe.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\obj\x86\Debug\YouTUbe.exe
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\obj\x86\Debug\YouTUbe.xml
+D:\SCHOOL\VISUAL BASIC\YouTUbe\YouTUbe\obj\x86\Debug\YouTUbe.pdb

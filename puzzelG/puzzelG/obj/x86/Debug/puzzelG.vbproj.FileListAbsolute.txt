@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\bin\Debug\puzzelG.exe
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\bin\Debug\puzzelG.pdb
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\bin\Debug\puzzelG.xml
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\obj\x86\Debug\puzzelG.Form1.resources
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\obj\x86\Debug\puzzelG.Resources.resources
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\obj\x86\Debug\puzzelG.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\obj\x86\Debug\puzzelG.exe
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\obj\x86\Debug\puzzelG.xml
+D:\SCHOOL\VISUAL BASIC\puzzelG\puzzelG\obj\x86\Debug\puzzelG.pdb

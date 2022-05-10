@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\bin\Debug\cacus.exe
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\bin\Debug\cacus.pdb
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\bin\Debug\cacus.xml
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\obj\x86\Debug\cacus.Form1.resources
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\obj\x86\Debug\cacus.Resources.resources
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\obj\x86\Debug\cacus.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\obj\x86\Debug\cacus.exe
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\obj\x86\Debug\cacus.xml
+D:\SCHOOL\VISUAL BASIC\cacus\cacus\obj\x86\Debug\cacus.pdb

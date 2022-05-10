@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "mr eric 1", "mr eric 1\mr eric 1.vbproj", "{8F67E038-EFF3-44FF-93F0-2A25BF39BEF4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Receipt", "Receipt\Receipt.vdproj", "{22D743B3-FDFB-4B4B-B2CD-504CAD04A5F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F67E038-EFF3-44FF-93F0-2A25BF39BEF4}.Debug|x86.ActiveCfg = Debug|x86
+		{8F67E038-EFF3-44FF-93F0-2A25BF39BEF4}.Debug|x86.Build.0 = Debug|x86
+		{8F67E038-EFF3-44FF-93F0-2A25BF39BEF4}.Release|x86.ActiveCfg = Release|x86
+		{8F67E038-EFF3-44FF-93F0-2A25BF39BEF4}.Release|x86.Build.0 = Release|x86
+		{22D743B3-FDFB-4B4B-B2CD-504CAD04A5F6}.Debug|x86.ActiveCfg = Debug
+		{22D743B3-FDFB-4B4B-B2CD-504CAD04A5F6}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

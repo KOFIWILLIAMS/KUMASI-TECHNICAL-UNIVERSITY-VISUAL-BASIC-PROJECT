@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\bin\Debug\login sheet.exe
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\bin\Debug\login sheet.pdb
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\bin\Debug\login sheet.xml
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\obj\x86\Debug\login_sheet.Form1.resources
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\obj\x86\Debug\login_sheet.Resources.resources
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\obj\x86\Debug\login sheet.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\obj\x86\Debug\login sheet.exe
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\obj\x86\Debug\login sheet.xml
+D:\SCHOOL\VISUAL BASIC\login sheet\login sheet\obj\x86\Debug\login sheet.pdb

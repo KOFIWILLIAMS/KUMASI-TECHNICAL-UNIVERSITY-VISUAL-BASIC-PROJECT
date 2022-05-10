@@ -1,0 +1,11 @@
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

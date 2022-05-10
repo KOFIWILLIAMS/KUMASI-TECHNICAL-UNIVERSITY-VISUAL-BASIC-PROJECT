@@ -1,0 +1,13 @@
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.ADD_STUDENT.resources
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.HOME.resources
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.MARKS.resources
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.Resources.resources
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.RECORD.resources
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.REPORT.resources
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\bin\Debug\classONE.exe
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\bin\Debug\classONE.pdb
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\bin\Debug\classONE.xml
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.exe
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.xml
+D:\SCHOOL\VISUAL BASIC\classONE\classONE\obj\x86\Debug\classONE.pdb

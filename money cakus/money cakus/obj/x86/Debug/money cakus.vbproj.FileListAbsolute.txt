@@ -1,0 +1,18 @@
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\bin\Debug\money cakus.exe
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\bin\Debug\money cakus.pdb
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\bin\Debug\money cakus.xml
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\obj\x86\Debug\money_cakus.Form1.resources
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\obj\x86\Debug\money_cakus.Resources.resources
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\obj\x86\Debug\money cakus.vbproj.GenerateResource.Cache
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\obj\x86\Debug\money cakus.exe
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\obj\x86\Debug\money cakus.xml
+C:\Users\ASMAH\Desktop\cofy\vb\money cakus\money cakus\obj\x86\Debug\money cakus.pdb
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\obj\x86\Debug\money cakus.xml
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\obj\x86\Debug\money cakus.pdb
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\bin\Debug\money cakus.exe
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\bin\Debug\money cakus.pdb
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\bin\Debug\money cakus.xml
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\obj\x86\Debug\money_cakus.Form1.resources
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\obj\x86\Debug\money_cakus.Resources.resources
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\obj\x86\Debug\money cakus.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\money cakus\money cakus\obj\x86\Debug\money cakus.exe

@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\learn\learn\bin\Debug\learn.exe
+D:\SCHOOL\VISUAL BASIC\learn\learn\bin\Debug\learn.pdb
+D:\SCHOOL\VISUAL BASIC\learn\learn\bin\Debug\learn.xml
+D:\SCHOOL\VISUAL BASIC\learn\learn\obj\x86\Debug\learn.Form1.resources
+D:\SCHOOL\VISUAL BASIC\learn\learn\obj\x86\Debug\learn.Resources.resources
+D:\SCHOOL\VISUAL BASIC\learn\learn\obj\x86\Debug\learn.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\learn\learn\obj\x86\Debug\learn.exe
+D:\SCHOOL\VISUAL BASIC\learn\learn\obj\x86\Debug\learn.xml
+D:\SCHOOL\VISUAL BASIC\learn\learn\obj\x86\Debug\learn.pdb

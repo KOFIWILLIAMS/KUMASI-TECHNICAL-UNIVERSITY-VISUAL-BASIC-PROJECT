@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\bin\Debug\mr eric 1.exe
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\bin\Debug\mr eric 1.pdb
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\bin\Debug\mr eric 1.xml
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\obj\x86\Debug\mr_eric_1.Form1.resources
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\obj\x86\Debug\mr_eric_1.Resources.resources
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\obj\x86\Debug\mr eric 1.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\obj\x86\Debug\mr eric 1.exe
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\obj\x86\Debug\mr eric 1.xml
+D:\SCHOOL\VISUAL BASIC\mr eric 1\mr eric 1\obj\x86\Debug\mr eric 1.pdb

@@ -1,0 +1,18 @@
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\bin\Debug\discount wrk.exe
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\bin\Debug\discount wrk.pdb
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\bin\Debug\discount wrk.xml
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\obj\x86\Debug\discount_wrk.Form1.resources
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\obj\x86\Debug\discount_wrk.Resources.resources
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\obj\x86\Debug\discount wrk.vbproj.GenerateResource.Cache
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\obj\x86\Debug\discount wrk.exe
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\obj\x86\Debug\discount wrk.xml
+C:\Users\DaaVI\Desktop\school\New folder\discount wrk\discount wrk\obj\x86\Debug\discount wrk.pdb
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\obj\x86\Debug\discount wrk.xml
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\obj\x86\Debug\discount wrk.pdb
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\bin\Debug\discount wrk.exe
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\bin\Debug\discount wrk.pdb
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\bin\Debug\discount wrk.xml
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\obj\x86\Debug\discount_wrk.Form1.resources
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\obj\x86\Debug\discount_wrk.Resources.resources
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\obj\x86\Debug\discount wrk.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\discount wrk\discount wrk\obj\x86\Debug\discount wrk.exe

@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\game\game\bin\Debug\game.exe
+D:\SCHOOL\VISUAL BASIC\game\game\bin\Debug\game.pdb
+D:\SCHOOL\VISUAL BASIC\game\game\bin\Debug\game.xml
+D:\SCHOOL\VISUAL BASIC\game\game\obj\x86\Debug\game.Form1.resources
+D:\SCHOOL\VISUAL BASIC\game\game\obj\x86\Debug\game.Resources.resources
+D:\SCHOOL\VISUAL BASIC\game\game\obj\x86\Debug\game.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\game\game\obj\x86\Debug\game.exe
+D:\SCHOOL\VISUAL BASIC\game\game\obj\x86\Debug\game.xml
+D:\SCHOOL\VISUAL BASIC\game\game\obj\x86\Debug\game.pdb

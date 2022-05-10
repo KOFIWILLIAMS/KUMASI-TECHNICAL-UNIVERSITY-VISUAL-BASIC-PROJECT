@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CellFone", "CellFone\CellFone.vdproj", "{F9FD1671-A632-4DB7-9F0E-6E6BBFEB347B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FD1671-A632-4DB7-9F0E-6E6BBFEB347B}.Debug|Default.ActiveCfg = Debug
+		{F9FD1671-A632-4DB7-9F0E-6E6BBFEB347B}.Debug|Default.Build.0 = Debug
+		{F9FD1671-A632-4DB7-9F0E-6E6BBFEB347B}.Release|Default.ActiveCfg = Release
+		{F9FD1671-A632-4DB7-9F0E-6E6BBFEB347B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

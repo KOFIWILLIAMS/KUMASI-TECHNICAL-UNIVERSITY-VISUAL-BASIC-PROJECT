@@ -1,0 +1,11 @@
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\bin\Debug\uuu.exe.config
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\bin\Debug\uuu.exe
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\bin\Debug\uuu.pdb
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\bin\Debug\uuu.xml
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\obj\Debug\uuu.vbprojResolveAssemblyReference.cache
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\obj\Debug\uuu.Form1.resources
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\obj\Debug\uuu.Resources.resources
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\obj\Debug\uuu.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\obj\Debug\uuu.exe
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\obj\Debug\uuu.xml
+D:\SCHOOL\VISUAL BASIC\assignmentTWO\uuu\uuu\obj\Debug\uuu.pdb

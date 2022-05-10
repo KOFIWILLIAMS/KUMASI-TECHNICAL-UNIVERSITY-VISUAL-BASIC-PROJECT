@@ -1,0 +1,21 @@
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\grade system\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\SCHOOL\VISUAL BASIC\grade system\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\SCHOOL\VISUAL BASIC\grade system\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

@@ -1,0 +1,18 @@
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\Interop.WMPLib.dll
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media player.vbproj.ResolveComReference.cache
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media_player.Form1.resources
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media_player.Resources.resources
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media player.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\media player\media player\bin\Debug\media player.exe
+D:\SCHOOL\VISUAL BASIC\media player\media player\bin\Debug\media player.pdb
+D:\SCHOOL\VISUAL BASIC\media player\media player\bin\Debug\media player.xml
+D:\SCHOOL\VISUAL BASIC\media player\media player\bin\Debug\Interop.WMPLib.dll
+D:\SCHOOL\VISUAL BASIC\media player\media player\bin\Debug\AxInterop.WMPLib.dll
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media player.exe
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media player.xml
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media player.pdb
+D:\SCHOOL\VISUAL BASIC\media player\media player\bin\Debug\media player.exe.manifest
+D:\SCHOOL\VISUAL BASIC\media player\media player\bin\Debug\media player.application
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media player.exe.manifest
+D:\SCHOOL\VISUAL BASIC\media player\media player\obj\x86\Debug\media player.application

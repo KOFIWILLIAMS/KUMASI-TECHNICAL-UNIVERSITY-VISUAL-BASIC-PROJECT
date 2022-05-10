@@ -1,0 +1,11 @@
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\bin\Debug\classAfterCorona.exe.config
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\bin\Debug\classAfterCorona.exe
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\bin\Debug\classAfterCorona.pdb
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\bin\Debug\classAfterCorona.xml
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\obj\Debug\classAfterCorona.vbprojResolveAssemblyReference.cache
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\obj\Debug\classAfterCorona.Form1.resources
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\obj\Debug\classAfterCorona.Resources.resources
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\obj\Debug\classAfterCorona.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\obj\Debug\classAfterCorona.exe
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\obj\Debug\classAfterCorona.xml
+D:\SCHOOL\VISUAL BASIC\classAfterCorona\classAfterCorona\obj\Debug\classAfterCorona.pdb

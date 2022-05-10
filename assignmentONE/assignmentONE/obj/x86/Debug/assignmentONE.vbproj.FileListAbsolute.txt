@@ -1,0 +1,12 @@
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\bin\Debug\assignmentONE.exe
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\bin\Debug\assignmentONE.pdb
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\bin\Debug\assignmentONE.xml
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.Form1.resources
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.Resources.resources
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.exe
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.xml
+D:\SCHOOL\VISUAL BASIC\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.pdb
+C:\Users\DaaVy\Desktop\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.exe
+C:\Users\DaaVy\Desktop\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.xml
+C:\Users\DaaVy\Desktop\assignmentONE\assignmentONE\obj\x86\Debug\assignmentONE.pdb

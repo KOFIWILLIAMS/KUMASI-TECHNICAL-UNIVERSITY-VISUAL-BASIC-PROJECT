@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RESULT CHECKER", "RESULT CHECKER\RESULT CHECKER.vdproj", "{CC41F097-4917-42C6-81F3-FB63E5202852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC41F097-4917-42C6-81F3-FB63E5202852}.Debug|Default.ActiveCfg = Debug
+		{CC41F097-4917-42C6-81F3-FB63E5202852}.Debug|Default.Build.0 = Debug
+		{CC41F097-4917-42C6-81F3-FB63E5202852}.Release|Default.ActiveCfg = Release
+		{CC41F097-4917-42C6-81F3-FB63E5202852}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\bin\Debug\ladle app in VB.exe
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\bin\Debug\ladle app in VB.pdb
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\bin\Debug\ladle app in VB.xml
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\obj\x86\Debug\ladle_app_in_VB.main.resources
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\obj\x86\Debug\ladle_app_in_VB.Resources.resources
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\obj\x86\Debug\ladle app in VB.vbproj.GenerateResource.Cache
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\obj\x86\Debug\ladle app in VB.exe
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\obj\x86\Debug\ladle app in VB.xml
+D:\SCHOOL\VISUAL BASIC\ladle app in VB\ladle app in VB\obj\x86\Debug\ladle app in VB.pdb
